@@ -1,0 +1,38 @@
+.satu{
+  text-align: center;
+  background: skyblue;
+  padding: 10px;
+  margin-top: 50px;
+  border: 1px solid white;
+}
+
+.dua{
+  text-align: center;
+  background: green;
+  padding: 10px;
+  border: 1px solid white;
+}
+.tiga{
+  text-align: center;
+  background: blue;
+  padding: 10px;
+  border: 1px solid white;
+}
+.empat{
+  text-align: center;
+  background: yellow;
+  padding: 10px;
+  border: 1px solid white;
+}
+.lima{
+  text-align: center;
+  background: red;
+  padding: 10px;
+  border: 1px solid white;
+}
+.enam{
+  text-align: center;
+  background: #8A2BE2;
+  padding: 10px;
+  border: 1px solid white;
+}
